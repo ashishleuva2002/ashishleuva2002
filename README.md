@@ -1,7 +1,11 @@
+
+<p align="center">
+<h1 align="center">Hi 😊, I'm Ashish Leuva</h1>
+</p>
 <div align="center">
 
   <a href="">
-<img width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" />
+<img width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />
   </a>&ensp;
   
   <a href="">
@@ -15,16 +19,13 @@
 </div>
   <br>
 <br>
-<p align="center">
-<h1 align="center">Hi 🙂 , I'm Ashish Leuva</h1>
-
 
 - 👋 Hi, I’m @ashishleuva2002
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning ReactJS,NextJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-</p>
+
 
 <div>
 <!---
