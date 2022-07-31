@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Leuva</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishleuva2002&label=Profile%20views&color=0e75b6&style=flat" alt="ashishleuva2002" /> </p>
-
 - 🌱 I’m currently learning **ReactJS, NextJs.**
 
 - 👨‍💻 All of my projects are available at [https://ashish-react-portfolio.netlify.app/](https://ashish-react-portfolio.netlify.app/)
